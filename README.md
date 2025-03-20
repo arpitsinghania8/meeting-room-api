@@ -43,7 +43,7 @@ A NestJS-based API for managing meeting room bookings.
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/arpitsinghania8/meeting-room-api.git
 cd meeting-room-api
 
 # Install dependencies
